@@ -30,3 +30,12 @@ print('Fechando...')
 # arquivo = open("pessoa.txt", "a")
 # arquivo.write(nome + "|" + email + "\n")
 # arquivo.close()
+
+"""
+MODE
+r - leitura
+a - append
+w - escrita
+x - criar arquivo
+r+ - leitira + escrita
+"""
