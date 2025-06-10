@@ -41,3 +41,12 @@ w - escrita
 x - criar arquivo
 r+ - leitira + escrita
 """
+# arquivo.readable()
+# retorna se o arquivo pode ser lido ou nao
+
+# arquivo.readline()
+# le uma linha
+
+# arquivo.readlines()
+# le o arquivo e tranforma o conteudo em listas?
+
